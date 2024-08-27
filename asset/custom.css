@@ -123,9 +123,9 @@ header {
 .course-content {
 }
 .course-content h2 {
-  font-size: 36px;
+  font-size: 26px;
   font-weight: 700;
-  line-height: 54px;
+  line-height: 45px;
   color: #413960;
 }
 
@@ -247,8 +247,8 @@ footer {
     line-height: 28px;
   }
   .topic-card {
-    height: 250px;
-    width: 250px;
+    height: 200px;
+    width: 260px;
   }
   .topic-card img {
     height: 55px;
@@ -261,8 +261,8 @@ footer {
   .topic-card h4 {
     font-size: 18px;
     line-height: 29px;
-    margin-top: 12px;
-    margin-bottom: 0;
+    margin-top: 15px;
+    margin-bottom: 8px;
   }
   .course-topic h3 {
     font-size: 18px;
