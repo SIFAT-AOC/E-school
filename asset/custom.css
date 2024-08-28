@@ -275,4 +275,16 @@ footer {
   .testimonial-content {
     text-align: center;
   }
+  .footer-content li a span {
+    font-size: 14px;
+  }
+  .footer-content li a {
+    font-size: 17px;
+  }
+  .copy-right {
+    font-size: 14px;
+  }
+  .footer-content p {
+    font-size: 14px;
+  }
 }
