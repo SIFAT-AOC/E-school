@@ -243,9 +243,14 @@ footer {
 }
 
 @media (max-width: 768px) {
+
   .header-content p {
     font-size: 14px;
     line-height: 28px;
+    text-align: center;
+}
+    .header-content h1 {
+      text-align:center;
   }
   .topic-card {
     height: 200px;
